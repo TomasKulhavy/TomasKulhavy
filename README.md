@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contact 📫
+*Full - Stack Web Developer*
+
+E-mail: tom.kulhavy@seznam.cz
+
+Personal website: https://tomas-kulhavy.cz/
+
+## Skills
+
+ - React.js, Next.js (JavaScript)
+ - C# (Console app., ASP.NET)
+ - HTML
+ - CSS
+ - Java
+ - SQL
+ - Python
