@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 E-mail: tom.kulhavy@seznam.cz
 
-LinkedIn: www.linkedin.com/in/tomáš-kulhavý-52a4b4233
+LinkedIn: https://www.linkedin.com/in/tomaskulhavy-web/
 
 Personal website: https://tomas-kulhavy.cz/
 
