@@ -33,5 +33,3 @@ Personal website: https://tomas-kulhavy.cz/
  - Java
  - SQL
  - Python
-
-🌱 Flutter
