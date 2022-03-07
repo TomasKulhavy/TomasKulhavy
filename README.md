@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 E-mail: tom.kulhavy@seznam.cz
 
-LinkedIn: https://www.linkedin.com/in/tomaskulhavy-web/
+[LinkedIn](https://www.linkedin.com/in/tomaskulhavy-web/)
 
-Personal website: https://tomas-kulhavy.cz/
+[Personal website](https://tomas-kulhavy.cz/)
 
 ## Skills
 
@@ -33,3 +33,5 @@ Personal website: https://tomas-kulhavy.cz/
  - Java
  - SQL
  - Python
+ - Adobe Photoshop
+ - Adobe Illustrator
