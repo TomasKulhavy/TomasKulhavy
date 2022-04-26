@@ -35,3 +35,4 @@ E-mail: tom.kulhavy@seznam.cz
  - Python
  - Adobe Photoshop
  - Adobe Illustrator
+ - Adobe Xd
