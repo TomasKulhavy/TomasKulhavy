@@ -1,7 +1,7 @@
 Hi 👋 My name is Tomáš Kulhavý
 ==============================
 
-Full-Stack Web Developer
+Full - Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in Liberec
