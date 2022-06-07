@@ -1,5 +1,5 @@
-<p align="center">Hi 👋 My name is Tomáš Kulhavý</p>
-<p align="center">==============================</p>
+Hi 👋 My name is Tomáš Kulhavý
+==============================
 
 Full - Stack Web Developer
 ------------------------
